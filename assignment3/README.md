@@ -88,7 +88,7 @@ and generate random text.
         a. (20 points) **load_model()**: Load the saved argument file and the model file 
          
         b. (25 points) **generate()**: Generate a random document starting from the start-of-sentence token *SOS* and 
-        stopping when reaching the end-of-sentence token *EOS*  
+        stopping when reaching the end-of-sentence token *EOS* by employing a greedy sampling technique  
         
         c. (25 points) **recommend()**: Recommend next possible k words with their corresponding probabilities given some initial context 
         
