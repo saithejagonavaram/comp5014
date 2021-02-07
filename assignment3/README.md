@@ -100,7 +100,7 @@ and generate random text.
 
 ## Submission
 
-A compressed file named **FirstName_LastName_StudentID.zip** consists of:
+Submit a compressed file named **FirstName_LastName_StudentID.zip** on D2L, consisting of:
 
 - One pdf file to answer parts 1
 - Your coding files in part 2: *predict.py* and *app.py* 
