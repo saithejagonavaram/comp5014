@@ -69,7 +69,8 @@ and generate random text.
 2. (80 points) Part 2 - Coding 
 
     - DON'T TRAIN THE MODEL: In this assignment, we will focus on writing an inference of an LM using available 
-    pre-trained models. 
+    pre-trained models. **NOTE:** we are working with a pre-trained LM trained on a tiny dataset, which doesn't provide 
+    good performance; thus, coding is more important than model's results
     
     - Before coding, open new terminal at the repository and run following command to create a virtual environment 
     and install all required libraries:
