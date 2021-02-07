@@ -72,7 +72,7 @@ and generate random text.
     pre-trained models. **NOTE:** we are working with a pre-trained LM trained on a tiny dataset, which doesn't provide 
     good performance; thus, coding is more important than model's results
     
-    - Before coding, open new terminal at the repository and run following command to create a virtual environment 
+    - Before coding, open new terminal at the **assignment3** repository and run following commands to create a virtual environment 
     and install all required libraries:
 
     ```commandline
@@ -103,4 +103,4 @@ and generate random text.
 A compressed file named **FirstName_LastName_StudentID.zip** consists of:
 
 - One pdf file to answer parts 1
-- Your coding files: *predict.py* and *app.py* 
+- Your coding files in part 2: *predict.py* and *app.py* 
