@@ -103,4 +103,4 @@ and generate random text.
 Submit a compressed file named **FirstName_LastName_StudentID.zip** on D2L, consisting of:
 
 - One pdf file to answer parts 1
-- Your coding files in part 2: *predict.py*, *app.py* , *getgenerate()*, *getrecommend()*
+- Your coding files in part 2: *predict.py*, *app.py* 
